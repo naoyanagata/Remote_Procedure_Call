@@ -12,3 +12,6 @@
 
 入力例）{"method":"sort", "params":"nbnejgjkna", "param_type":"str", "id":2}
 出力例）{'results': 'abegjjknnn', 'result_type': "<class 'str'>", 'id': 2}
+
+入力例）exit
+出力例）プログラムの終了
